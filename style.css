@@ -1,0 +1,63 @@
+.main-div select{
+color:black;
+border:1px solid #e4ddcb;
+border-radius:8px;
+background-color:#f7f5f4;
+}
+.main-div td{
+margin-left:5px;
+}
+.main-div input, textarea, button{
+padding:10px !important;
+color:black;
+border:1px solid #e4ddcb;
+border-radius:8px;
+background-color:#f7f5f4;
+}
+table td, table th{
+border: none;
+}
+.main-div{
+max-width:560px;
+margin: 0 auto;
+background-color: #f4efe3;
+padding: 10px;
+border:2px solid #e4ddcb;
+border-radius:5px;
+font-family:time new roman;
+position:relative;
+}
+td{
+width:50%;
+pdding-left:2%;
+}
+.fixed-wide{
+margin-left: 0px;
+}
+#calculate{
+width:100%;
+margin-right:3%;
+float:left;
+background-color: #f96e5b;
+color:white;
+}
+#calculate:hover{
+background-color: white;
+color:black;
+}
+#reset:hover{
+background-color: white;
+color:black;
+}
+#reset{
+width:100%;
+margin-left:2%;
+float:right;
+}
+#h6-mr{
+margin-left: 5px;
+}
+#vat{
+text-align: center;
+font-weight: bold;
+}
